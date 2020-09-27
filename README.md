@@ -4,6 +4,8 @@
 - Pushkar Anand
 
 ## Participants
+- Anusha Subramanyam
+- Anusha A
 - Raju m
 - Chandana V Kumar
 - Suraj G
@@ -11,7 +13,13 @@
 - Dheeraj Pramod Naik
 - Akul G
 - Keerthana B
+- Navyashree R Bhat
+- Shreyas Lakshman Swamy
 - Zabiulla Sheriff
 - Suloni Praveen
 - Poorna Chandra D
 - Vignesh V
+- Soundarya Shivram
+- Madhuri BH
+- Deepakshi I
+- Dipali Singh
